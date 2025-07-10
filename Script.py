@@ -8,9 +8,9 @@ class script(object):
 
 <b>Exᴄʟᴜꜱɪᴠᴇʟʏ Mᴀᴅᴇ Tʜɪꜱ Bᴏᴛ Fᴏʀ @ARAKAL_THERAVAD_GROUP_01..!! 💫</b>
 
-<b>📌 Sᴜᴘᴘᴏʀᴛ : @PRE_DVD_UPDTES</b>
+<b>📌 Sᴜᴘᴘᴏʀᴛ : @cineflix</b>
 
-<b>🍂 Oᴡɴᴇʀ : @ARAKAL_THERAVAD_MOVIES_02_bot</b>"""
+<b>🍂 Oᴡɴᴇʀ : @Farook13</b>"""
     
     HELP_TXT = """<b>Hᴇʏ {} 𝖨𝖺𝗆 𝖧𝖺𝗉𝗉𝗒 🖤 𝖳𝗈 𝖧𝖺𝗏𝖾 𝖸𝗈𝗎
     
@@ -26,11 +26,11 @@ class script(object):
 
 📡 𝑯𝒐𝒔𝒕𝒆𝒅 𝑶𝒏 : <a href='https://t.me/+1YiWOavPrhc0NmI1'>𝑯𝒆𝒓𝒌𝒖𝒐</a>
 
-👨‍💻 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 : <a href='https://t.me/ARAKAL_THERAVAD_MOVIES_02_bot'>𝑵𝒂𝒛𝒓𝒊𝒚𝒂</a>
+👨‍💻 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 : <a href='https://t.me/Farook13'>𝙁𝘼𝙍𝙊𝙊𝙆</a>
 
-👥 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 : <a href='https://t.me/+FAa3tYIjXYcyZDY1'>𝑨𝑻𝑴</a>
+👥 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 : <a href='https://t.me/cine_flix01'>𝙈𝙤𝙫𝙞𝙚 𝙜𝙧𝙤𝙪𝙥</a>
 
-📢 𝑼𝒑𝒅𝒂𝒕𝒆 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 : <a href='https://t.me/OTT_ARAKAL_THERAVAD_MOVIESS'>𝑨𝑻𝑴 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍</a></b>"""
+📢 𝑼𝒑𝒅𝒂𝒕𝒆 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 : <a href='https://t.me/+PqPHp8rh7c42MjJl'>𝘾𝙞𝙣𝙚 𝙁𝙡𝙞𝙭</a></b>"""
 
     BOTINFO_TXT = """<b>𝖧𝖾𝗒 𝖡𝗋𝗈 𝖨𝖺𝗆 𝖧𝖺𝗉𝗉𝗒 🖤 𝖳𝗈 𝖧𝖺𝗏𝖾 𝖸𝗈𝗎
  
@@ -110,9 +110,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/KingVj01>☢VJ☢</a></b>
-  
- <b>✯ Join here : <a href=https://t.me/vj_bots>☢Join my updateds☢</a></b> 
+ <b>✯ Maintained by : <a href=https://t.me/Farook13>𝙁à𝙧𝙤𝙤𝙠</a></b>
+
+ <b>✯ Join here : <a href=https://t.me/+PqPHp8rh7c42MjJl></a>Ç𝙞𝙣𝙚 𝙁𝙡𝙞𝙭</b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -245,9 +245,9 @@ Nᴀᴍᴇ - {}"""
 <blockquote>⚠️ ഈ ബോട്ടിൽ നിന്നും തീയറ്റർ പ്രിന്റുകൾ  മാത്രമേ ലഭിക്കുകയുള്ളൂ..⚡</blockquote>
  
  ╔═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╗
- ♻️ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/+TGgjhMVmwdUwNWY1> 𝐆𝐑𝐎𝐔𝐏 </a>
- ♻️ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/OTT_ARAKAL_THERAVAD_MOVIESS> 𝐎𝐓𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 </a>
- ♻️ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/ARAKAL_THERAVAD_GROUP_LINKS> 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 </a>
+ ♻️ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/cine_flix01>𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏 </a>
+ ♻️ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/+PqPHp8rh7c42MjJl> 𝐎𝐓𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 </a>
+ ♻️ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/+PqPHp8rh7c42MjJl> 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 </a>
  ╚═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
